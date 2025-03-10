@@ -1,0 +1,14 @@
+:root{
+
+    --cor-de-feundo: rgb(180, 180, 255);
+    --blue: rgb(6, 6, 160);
+    --branco:#FFFFFF;
+    --botao-ativa:orange;
+    --botao-inativo:yellow;
+    --texto-fundo:black;
+
+}
+body{
+background-color: rgb(102, 5, 5);
+
+}
